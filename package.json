@@ -12,7 +12,7 @@
   },
   "author": "Stefan Wenzl",
   "scripts": {
-    "commit": "cz commit"
+    "commit": "cz"
   },
   "devDependencies": {
     "commitizen": "^4.3.0",
