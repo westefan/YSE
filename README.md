@@ -1,6 +1,9 @@
 # YSE - Why Software Engineering (spoken wise)
 
-Simon Sinek's insights were aimed at leaders and organizations, but it applies just as well to the craft of software engineering. Most resources cover the whats and hows, but rarely also cover why does it actually matter. While these articles will definitely cover also the whats and hows, they will always try to also answer why it matters
+> "People don't buy what you do, they buy why you do it."
+> _Simon Sinek_
+
+Simon Sinek's insights were aimed at leaders and organizations, but it applies just as well to the craft of software engineering. The why of our craft does not change, but the whats and hows do! Most resources cover only the latter two, but rarely also cover why does it actually matter. While these articles will definitely cover also the whats and hows, they will always try to also answer why it matters in the first place.
 
 ## The Problem with How-To
 
@@ -25,7 +28,7 @@ Code is nowadays written by machines. The judgment around the system this code w
 
 YSE is a knowledge base for engineers and engineering leaders who want to go deeper. While I will mostly use languages, frameworks and practices I am most familiar with, but remember the core principles matter more than the actual code or practice itself.
 
-These articles will mainly cover:
+While a lot of the practices can be applied to different areas, YSE will mostly focus on web applications and products with the following focus:
 
 - Frontend Engineering; TypeScript, Angular, NgRx, Nx
 - Backend Engineering; NestJS, Java with Spring and Hibernate, REST, GraphQL, Kafka
