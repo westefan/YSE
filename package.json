@@ -1,0 +1,29 @@
+{
+  "name": "yse",
+  "version": "1.0.0",
+  "description": "A knowledge base about software engineering",
+  "homepage": "https://github.com/westefan/YSE#readme",
+  "bugs": {
+    "url": "https://github.com/westefan/YSE/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westefan/YSE.git"
+  },
+  "author": "Stefan Wenzl",
+  "scripts": {
+    "commit": "cz commit"
+  },
+  "devDependencies": {
+    "commitizen": "^4.3.0",
+    "cz-customizable": "^7.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
+    },
+    "cz-customizable": {
+      "config": ".cz-config.js"
+    }
+  }
+}
